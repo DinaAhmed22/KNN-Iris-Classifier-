@@ -16,3 +16,11 @@ Pandas & NumPy (Data Processing)
 Best K-value is selected using GridSearchCV
 Mean cross-validation accuracy: ~1.0000 ± 0.0000
 Model achieves high test accuracy, ensuring generalization
+🚀 What’s Next? A Better Model!
+While KNN performs well, it can be slow for large datasets and is sensitive to noisy data. To improve performance, the next step is to use:
+
+🔹 Support Vector Machine (SVM) – Finds the best decision boundary between classes, performing better on complex, high-dimensional data.
+🔹 Random Forest – A robust ensemble learning method that reduces overfitting and improves accuracy.
+🔹 Neural Networks (MLPClassifier) – A deep learning approach that can handle complex decision boundaries effectively.
+
+
